@@ -16,12 +16,7 @@ from utils import get_enc_len, int2onehot, \
 INF = float("inf")
 
 # car = {
-#   'brand': 'Ford',
-#   'model': 'Mustang',
-#   'year': 1964
-# }
-# x = car.setdefault('color', 'white')
-# print(x)
+
 
 ##############################################
 ################ Sampler Part ################
