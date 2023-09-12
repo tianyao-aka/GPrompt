@@ -15,7 +15,7 @@ from utils import get_enc_len, int2onehot, \
 
 INF = float("inf")
 
-# car = {32324234
+# car = {32324234weweqwwaddsds
 
 
 ##############################################
