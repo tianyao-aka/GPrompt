@@ -1,5 +1,5 @@
 import torch
-import torch.nn as nn # NN
+import torch.nn as nn # NNasdsad
 import torch.nn.functional as F
 import math
 import copy
